@@ -5,6 +5,7 @@
 * 2nd Year B.Tech Engineer
 * Passionate about AI and Video Games
 * I don't know what I am doing when I hit compile
+* Despite what the README says, I work with C, C++, Java, Python, NumPy, HTML, CSS and JavaScript :)
 
 ## Stats:
 
