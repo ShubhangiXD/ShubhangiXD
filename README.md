@@ -10,7 +10,7 @@
 ## Stats:
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhangixd&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="shubhangixd" /></p> 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhangixd&show_icons=true&locale=en" alt="shubhangixd" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhangixd&show_icons=true&locale=en&theme=synthwave" alt="shubhangixd" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhangixd&" alt="shubhangixd" /></p>
 
