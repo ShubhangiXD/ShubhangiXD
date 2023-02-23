@@ -1,5 +1,7 @@
 ![Cute Banner !!](https://user-images.githubusercontent.com/92100787/220425731-df420f75-786c-40f7-96f9-e6ed7f805e4d.jpeg)
 
+https://badgen.net/badge/chat/on%20discord/cyan
+
 ## About Me:
 
 * 2nd Year B.Tech Engineer
