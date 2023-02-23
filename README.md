@@ -1,6 +1,6 @@
 ![Cute Banner !!](https://user-images.githubusercontent.com/92100787/220425731-df420f75-786c-40f7-96f9-e6ed7f805e4d.jpeg)
 
-![Discord](https://dcbadge.vercel.app/api/shield/755808235658805412?style=flat) ![beginner](https://img.shields.io/badge/beginner-green?style=flat)
+![student](https://img.shields.io/badge/student-learning%20to%20code-grey?labelColor=purple&style=flat) ![Discord](https://dcbadge.vercel.app/api/shield/755808235658805412?style=flat) ![beginner](https://img.shields.io/badge/beginner-green?style=flat)
 
 ## About Me:
 
