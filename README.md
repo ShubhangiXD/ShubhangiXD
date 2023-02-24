@@ -21,14 +21,16 @@
 
 ## 🌱 I’m currently learning ...
 
-* Node.js and React
-* NumPy and Flask Framework
+* Bootstrap 
+* NumPy
+* JAVA
+* JavaScript
 
 ## 🔭 I’m currently working on ...
 
 * Some application of the Round Robin scheduling policy (TBU)
 * NPC AI in video games
-* Basics of Machine Learning and Deep Learning using PyTorch.
+
 
 <!--
 **ShubhangiXD/ShubhangiXD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
