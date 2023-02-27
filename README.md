@@ -1,7 +1,7 @@
 ![Cute Banner !!](https://user-images.githubusercontent.com/92100787/220425731-df420f75-786c-40f7-96f9-e6ed7f805e4d.jpeg)
 
-![student](https://img.shields.io/badge/student-learning%20to%20code-grey?labelColor=purple&style=flat) ![Discord](https://dcbadge.vercel.app/api/shield/755808235658805412?style=flat) ![beginner](https://img.shields.io/badge/beginner-green?style=flat)
-
+![beginner](https://img.shields.io/badge/beginner-green?style=for-the-badge) ![Discord](https://dcbadge.vercel.app/api/shield/755808235658805412?) 
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Github' src='https://img.shields.io/badge/New_to github-100000?style=for-the-badge&logo=Github&logoColor=FFFFFF&labelColor=000000&color=B700FF'/></a>
 ## About Me:
 
 * 2nd Year B.Tech Engineer
