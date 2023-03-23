@@ -38,4 +38,4 @@
 * NPC AI in video games
 * Advent of Code 2022
 * Contributing to Open Source projects
-* <!--mmmmm-->
+* <!--mmmmm if you see this say hi!-->
