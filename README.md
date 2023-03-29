@@ -34,8 +34,10 @@
 
 ## <img src="https://i.pinimg.com/originals/fe/a7/0f/fea70f5fa5273404d9f72afb163dfd0a.gif" height="50"> I’m currently working on:
 
-* Some application of the Round Robin scheduling policy (TBU)
+* Making a gardening chill video game
 * NPC AI in video games
 * Advent of Code 2022
 * Contributing to Open Source projects
+* Writing a paper on procedural animation.
+* Surviving another day of Computer Science Engineering.
 * <!--mmmmm if you see this say hi!-->
