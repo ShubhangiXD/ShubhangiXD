@@ -30,6 +30,8 @@
 * Java
 * JavaScript
 * HTML and CSS
+* MongoDB
+* SQL
 
 
 ## <img src="https://i.pinimg.com/originals/fe/a7/0f/fea70f5fa5273404d9f72afb163dfd0a.gif" height="50"> I’m currently working on:
@@ -40,4 +42,4 @@
 * Contributing to Open Source projects
 * Writing a paper on procedural animation.
 * Surviving another day of Computer Science Engineering.
-* <!--mmmmm if you see this say hi!-->
+<!--mmmmm if you see this say hi!-->
