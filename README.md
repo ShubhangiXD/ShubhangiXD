@@ -33,12 +33,10 @@
 * SQL
 
 
-## <img src="https://i.pinimg.com/originals/fe/a7/0f/fea70f5fa5273404d9f72afb163dfd0a.gif" height="50"> I’m currently working on:
+## <img src="https://i.pinimg.com/originals/fe/a7/0f/fea70f5fa5273404d9f72afb163dfd0a.gif" height="50"> Looking to work on:
 
-* Making a gardening chill video game
-* NPC AI in video games
-* Advent of Code 2022
-* Contributing to Open Source projects
-* Writing a paper on procedural animation.
-* Surviving another day of Computer Science Engineering.
+* Open Source projects
+* Frontend projects (using bootstrap, html, css and javascript)
+* Java projects
+* playing valorant :P
 <!--mmmmm if you see this say hi!-->
