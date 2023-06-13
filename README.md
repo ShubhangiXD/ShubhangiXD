@@ -4,10 +4,7 @@
 
 ## <img src="https://68.media.tumblr.com/5e24c0f622cd961d6735a615d1d4b14f/tumblr_oikfakRxD01vala9ro1_500.gif" height="30"> About Me:
 
-* 2nd Year B.Tech CSE student at KIIT University, Bhubaneshwar.
-* I occasionally dabble in Competitive Coding.
-* An (ambitious) Java developer, Full Stack developer (MERN)
-* I'm obsessed with The Last of Us, Pokemon (UnovaRPG and Platinum) and Valorant.
+Hello! I am Shubhangi Dutta, currently a sophomore at KIIT University, Bhubaneshwar. I mostly code in Java, C and C++, but am more interested in <b>Frontend Developement</b>. Speaking of which, I use React.js to make my projects. I recently started learning <b>Full Stack</b> so I am still fairly new to this, but surely I can come up with more amazing websites as I move forward. Looking forward to connecting with you!
 
 <!--## <img src="https://66.media.tumblr.com/tumblr_maorbj6OOz1rfjowdo1_500.gif" height="45"> Stats:
 
